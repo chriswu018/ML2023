@@ -2,7 +2,7 @@
 Machine Learning (Grade: A+)\
 Instructor: Hung-yi Lee\
 
-## Kaggle
+## Homework
 HW   |  Homework Topic| public|private | baseline |
 -----|---------------:|------:|-------:|-------:|
 2    |Classification  |39/738 | 33/738 | boss   |
